@@ -3,8 +3,8 @@
 
 <svg
    width="188.56772mm"
-   height="53.779999mm"
-   viewBox="0 0 712.69691 203.26306"
+   height="66.779999mm"
+   viewBox="0 0 712.69691 252.39695"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
@@ -26,7 +26,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.8832108"
-     inkscape:cx="356.30637"
+     inkscape:cx="259.1319"
      inkscape:cy="101.42253"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
@@ -77,7 +77,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Sitka Banner';-inkscape-font-specification:'Sitka Banner, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff7f2a;fill-opacity:1;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none">Starlake</tspan><tspan
          sodipodi:role="line"
          x="41.467056"
-         y="212.24934"
+         y="212.24933"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Sitka Banner';-inkscape-font-specification:'Sitka Banner, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff7f2a;fill-opacity:1;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none"
          id="tspan6081" /></text>
     <text
@@ -92,5 +92,19 @@
          x="44.070988"
          y="167.30507"
          style="stroke-width:0">Consulting Services</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none"
+       x="45.762047"
+       y="253.3421"
+       id="text6382"><tspan
+         sodipodi:role="line"
+         id="tspan6388"
+         x="45.762047"
+         y="253.3421">Infinite Possibilities </tspan><tspan
+         sodipodi:role="line"
+         id="tspan6390"
+         x="45.762047"
+         y="346.67548"></tspan></text>
   </g>
 </svg>
